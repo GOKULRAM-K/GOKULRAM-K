@@ -10,14 +10,18 @@
 
 <br/><br/>
 
-<!-- VIBRANT STATUS & METRICS BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-Available_for_AI%2FML_Collaborations-00F5FF?style=for-the-badge&logo=sparkles&logoColor=black" alt="Status" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/GSSoC_'26-Global_Rank_%2380_(Top_1%25)-F59E0B?style=for-the-badge&logo=gitbook&logoColor=black" alt="GSSoC Rank" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Elsevier_Paper-Impact_Factor_9.4-10B981?style=for-the-badge&logo=sciencedirect&logoColor=white" alt="Elsevier Paper" />
-</p>
+<!-- STATUS CARD -->
+<table align="center">
+  <tr>
+    <td align="center" style="background-color: #0d1117; border: 1px solid #1f2937; padding: 12px 24px; border-radius: 12px;">
+      <span style="color: #10b981; font-weight: bold;">🟢 CURRENT STATUS</span> &nbsp;|&nbsp; 
+      <span style="color: #f8fafc;">Available for AI/ML Research Collaborations & System Engineering Roles</span> &nbsp;|&nbsp; 
+      <span style="color: #f59e0b; font-weight: bold;">GSSoC '26 Global Rank #80</span>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <!-- SOCIAL & ACADEMIC MATRIX -->
 <p align="center">
@@ -46,112 +50,90 @@
 
 <br/>
 
-<!-- COLOURFUL MAC TERMINAL -->
-<div align="center">
-<table width="92%" style="background-color: #080c14; border: 2px solid #00F5FF; border-radius: 12px; border-collapse: separate; border-spacing: 0; box-shadow: 0 10px 30px rgba(0, 245, 255, 0.25);">
-  <tr>
-    <td style="background-color: #161b22; padding: 12px 16px; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom: 1px solid #30363d;">
-      <svg width="14" height="14" viewBox="0 0 14 14" style="vertical-align: middle;"><circle cx="7" cy="7" r="6" fill="#FF5F56"/></svg>&nbsp;
-      <svg width="14" height="14" viewBox="0 0 14 14" style="vertical-align: middle;"><circle cx="7" cy="7" r="6" fill="#FFBD2E"/></svg>&nbsp;
-      <svg width="14" height="14" viewBox="0 0 14 14" style="vertical-align: middle;"><circle cx="7" cy="7" r="6" fill="#27C93F"/></svg>&nbsp;&nbsp;&nbsp;
-      <span style="color: #00F5FF; font-family: monospace; font-weight: bold; font-size: 14px;">gokulram@ai-engine:~ (system_core.py)</span>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 20px; font-family: 'Fira Code', monospace; font-size: 14px; line-height: 1.7; background-color: #0d1117;">
-      <span style="color: #FF79C6; font-weight: bold;">class</span> <span style="color: #BD93F9; font-weight: bold;">AIEngineer</span>:<br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FF79C6; font-weight: bold;">def</span> <span style="color: #50FA7B; font-weight: bold;">__init__</span>(<span style="color: #FFB86C;">self</span>):<br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FFB86C;">self</span>.name = <span style="color: #F1FA8C;">"Gokul Ram K"</span><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FFB86C;">self</span>.role = <span style="color: #F1FA8C;">"AI Engineer &amp; Explainable AI Researcher"</span><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FFB86C;">self</span>.stack = [<span style="color: #F1FA8C;">"PyTorch"</span>, <span style="color: #F1FA8C;">"Vision Transformers"</span>, <span style="color: #F1FA8C;">"RAG Infra"</span>, <span style="color: #F1FA8C;">"XAI (LIME/SHAP)"</span>]<br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FFB86C;">self</span>.impact = {<span style="color: #8BE9FD;">"citations"</span>: <span style="color: #BD93F9;">30</span>, <span style="color: #8BE9FD;">"journal_if"</span>: <span style="color: #BD93F9;">9.4</span>, <span style="color: #8BE9FD;">"patents"</span>: <span style="color: #BD93F9;">2</span>}<br/>
-      <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FF79C6; font-weight: bold;">def</span> <span style="color: #50FA7B; font-weight: bold;">deploy_system</span>(<span style="color: #FFB86C;">self</span>, <span style="color: #FFB86C;">model_spec</span>):<br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FF79C6; font-weight: bold;">return</span> <span style="color: #F1FA8C;">f"Deploying {model_spec} with explainability &amp; ultra-low latency!"</span>
-    </td>
-  </tr>
-</table>
-</div>
-
-<br/><hr style="border: 0; height: 2px; background: linear-gradient(to right, rgba(0, 245, 255, 0), rgba(0, 245, 255, 0.9), rgba(168, 85, 247, 0.9), rgba(0, 245, 255, 0));" /><br/>
-
-## 🧬 System Architecture Pipeline
-
-> High-level architecture illustrating how I bridge raw multimodal data to production-grade interpretable AI systems.
-
-```mermaid
-graph LR
-    subgraph INGESTION["1. Multimodal Data Ingestion"]
-        A["Genomic & Protein Data"]
-        B["Acoustic Speech Signals"]
-        C["Video Frame Datasets"]
-    end
-
-    subgraph DEEP_LEARNING["2. Neural Architecture Layer"]
-        D["NLP / BioTransformers"]
-        E["Acoustic Feature Fusion"]
-        F["Vision Transformers (ViT)"]
-    end
-
-    subgraph INTERPRETABILITY["3. Explainable AI (XAI)"]
-        G["LIME / SHAP Attribution Maps"]
-        H["PharmGKB & CPIC Rules"]
-    end
-
-    subgraph PRODUCTION["4. Edge & Cloud Infrastructure"]
-        I["RAG & LLM Services"]
-        J["Real-Time Edge API"]
-    end
-
-    INGESTION --> DEEP_LEARNING
-    DEEP_LEARNING --> INTERPRETABILITY
-    INTERPRETABILITY --> PRODUCTION
-
-    classDef default fill:#0b0f19,stroke:#00F5FF,stroke-width:2px,color:#fff;
-    classDef modelStyle fill:#1e1b4b,stroke:#A855F7,stroke-width:2px,color:#fff;
-    classDef xaiStyle fill:#064e3b,stroke:#10B981,stroke-width:2px,color:#fff;
-    classDef deployStyle fill:#451a03,stroke:#F59E0B,stroke-width:2px,color:#fff;
-
-    class A,B,C default;
-    class D,E,F modelStyle;
-    class G,H xaiStyle;
-    class I,J deployStyle;
-```
-
-<br/><hr style="border: 0; height: 2px; background: linear-gradient(to right, rgba(0, 245, 255, 0), rgba(0, 245, 255, 0.9), rgba(168, 85, 247, 0.9), rgba(0, 245, 255, 0));" /><br/>
-
-## ⚡ High-Impact Metrics & Intellectual Capital
-
-<div align="center">
-  <table width="100%" style="background-color: #0b0f19; border: 1.5px solid #1e293b; border-radius: 14px; text-align: center; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);">
-    <tr>
-      <td width="20%" style="padding: 18px; border-right: 1px solid #1e293b;">
-        <span style="color: #00F5FF; font-size: 32px; font-weight: 900; text-shadow: 0 0 10px rgba(0,245,255,0.4);">30+</span><br/>
-        <span style="color: #94a3b8; font-size: 12px; font-weight: 700; letter-spacing: 0.5px;">Global Citations</span>
-      </td>
-      <td width="20%" style="padding: 18px; border-right: 1px solid #1e293b;">
-        <span style="color: #10B981; font-size: 32px; font-weight: 900; text-shadow: 0 0 10px rgba(16,185,129,0.4);">9.4</span><br/>
-        <span style="color: #94a3b8; font-size: 12px; font-weight: 700; letter-spacing: 0.5px;">Max Elsevier IF</span>
-      </td>
-      <td width="20%" style="padding: 18px; border-right: 1px solid #1e293b;">
-        <span style="color: #F59E0B; font-size: 32px; font-weight: 900; text-shadow: 0 0 10px rgba(245,158,11,0.4);">#80</span><br/>
-        <span style="color: #94a3b8; font-size: 12px; font-weight: 700; letter-spacing: 0.5px;">GSSoC '26 Global Rank</span>
-      </td>
-      <td width="20%" style="padding: 18px; border-right: 1px solid #1e293b;">
-        <span style="color: #A855F7; font-size: 32px; font-weight: 900; text-shadow: 0 0 10px rgba(168,85,247,0.4);">6</span><br/>
-        <span style="color: #94a3b8; font-size: 12px; font-weight: 700; letter-spacing: 0.5px;">Peer-Reviewed Papers</span>
-      </td>
-      <td width="20%" style="padding: 18px;">
-        <span style="color: #EC4899; font-size: 32px; font-weight: 900; text-shadow: 0 0 10px rgba(236,72,153,0.4);">2</span><br/>
-        <span style="color: #94a3b8; font-size: 12px; font-weight: 700; letter-spacing: 0.5px;">Issued Patents</span>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- SECTION DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
-### 💡 Issued Patents
+## 👤 Executive Profile
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>I turn machine learning research into production-grade systems.</h3>
+      <p>
+        I am an <strong>AI Engineer & Computer Science Researcher</strong> at <strong>VIT Chennai</strong>. My focus spans <strong>Deep Learning Architectures</strong>, <strong>Explainable AI (XAI)</strong>, <strong>Biomedical AI / Pharmacogenomics</strong>, and <strong>Swarm Intelligence</strong>.
+      </p>
+      <p>
+        Rather than stopping at theoretical accuracy, I build end-to-end, interpretable decision pipelines that combine deterministic domain knowledge (PharmGKB, CPIC guidelines) with machine learning predictions.
+      </p>
+      <br/>
+      <h4>🎯 Core Philosophy</h4>
+      <p><em>"Building with purpose — scaling with vision. Technology means nothing unless it serves people."</em></p>
+      <br/>
+      <h4>🔬 Current Research Focus</h4>
+      <ul>
+        <li><strong>Explainable AI (XAI)</strong>: LIME, SHAP, and feature fusion for transparent medical diagnostics and speech emotion recognition.</li>
+        <li><strong>Pharmacogenomics AI</strong>: Hybrid decision-support systems for gene–variant–drug response prediction and personalized dosing.</li>
+        <li><strong>Swarm Robotics & Edge AI</strong>: Swarm intelligence algorithms for real-time disaster response and payload optimization.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="top">
+      <br/>
+      <img src="public/profile.jpg" width="240" style="border-radius: 20px; border: 2px solid #38bdf8; box-shadow: 0 0 20px rgba(56, 189, 248, 0.3);" alt="Gokul Ram K Profile Photo" />
+      <br/><br/>
+      <table>
+        <tr><td align="center">🎓 <strong>30+ Global Citations</strong> (Elsevier IF 9.4)</td></tr>
+        <tr><td align="center">⭐ <strong>Rank #80 Global</strong> in GSSoC 2026</td></tr>
+        <tr><td align="center">📄 <strong>6 Research Publications</strong></td></tr>
+        <tr><td align="center">💡 <strong>2 Issued Patents</strong></td></tr>
+        <tr><td align="center">💼 <strong>3 AI/ML Internships</strong></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- SECTION DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br/>
+
+## ⏳ Interactive Engineering Timeline
+
+```mermaid
+timeline
+    title Career & Research Evolution
+    2018 : First X/O Game in Hard-coded Python
+         : Fundamentals of Logic & Algorithms
+    2021 : 10th Milestone - 97.2% (School Rank #4)
+    2022 : AI & Blockchain Exploration
+         : Conducted Web3/Blockchain Workshop for 90+ Peers
+    2023 : 12th Math Topper (99%)
+         : Python Institute PCEP & PCAP Certified
+    2024 : AWS Cloud Practitioner Certification
+         : First High-Impact Publication (Elsevier IF 9.4, 23 Citations)
+         : Issued 1st Patent (Emotions Reading Self-Care)
+    2025 : AI/ML Project Intern @ MEDxAI Innovations
+         : Python Dev Intern @ KRG Technologies Inc.
+         : Summer Research Intern @ VIT Chennai
+         : Issued 2nd Patent (AI Smart Irrigation)
+    2026 : GSSoC 2026 Rank #80 Globally (Top 1%, 142 Merged PRs)
+         : Published Speech Emotion Recognition XAI Framework (IEEE ICIRCA)
+    Future : Scaling Ethical, Explainable & Autonomous AI Systems
+```
+
+<br/>
+
+<!-- SECTION DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br/>
+
+## 🔬 Research Lab & Intellectual Property
+
+### 📑 Peer-Reviewed Publications
 
 <table width="100%">
   <tr>
@@ -314,42 +296,39 @@ graph LR
 
 <br/><hr style="border: 0; height: 2px; background: linear-gradient(to right, rgba(0, 245, 255, 0), rgba(0, 245, 255, 0.9), rgba(168, 85, 247, 0.9), rgba(0, 245, 255, 0));" /><br/>
 
-## ⏳ Engineering Milestones
+## 🛠️ Engineering Stack & Technical Arsenal
 
-```mermaid
-graph TD
-    subgraph Y2023 ["⚡ 2023: Core Engineering"]
-        A["AWS Cloud Practitioner Certified<br/>Deep Learning & System Specialization"]
-    end
+<table align="center" width="100%">
+  <tr>
+    <td width="20%" align="center"><strong>AI & Machine Learning</strong></td>
+    <td>PyTorch • TensorFlow • Keras • Scikit-Learn • Hugging Face • OpenCV • Librosa • SMOTE • LIME / SHAP</td>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><strong>GenAI & LLMs</strong></td>
+    <td>Gemini API • LangChain • ChromaDB • RAG Pipelines • Vector Embeddings • Prompt Engineering</td>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><strong>Languages</strong></td>
+    <td>Python • C++ • Java • C • SQL (MySQL, SQLite) • JavaScript • HTML5 / CSS3</td>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><strong>Backend & Systems</strong></td>
+    <td>Flask • Node.js • Next.js • REST APIs • SQLite • MySQL • Tesseract OCR</td>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><strong>Cloud & Infrastructure</strong></td>
+    <td>AWS (Cloud Practitioner Certified) • Docker • Git • GitHub • Linux Shell • Jupyter</td>
+  </tr>
+</table>
 
-    subgraph Y2024 ["📜 2024: High-Impact Research & Patent 1"]
-        B["Elsevier Paper (IF 9.4, 23+ Citations)<br/>Issued Patent #1 (Affective Computing System)"]
-    end
+<br/>
 
-    subgraph Y2025 ["💼 2025: AI Internships & Patent 2"]
-        C["AI/ML Project Intern @ MEDxAI Innovations<br/>Issued Patent #2 (Smart Irrigation) • SIH Finalist"]
-    end
+<!-- SECTION DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-    subgraph Y2026 ["🏆 2026: Global Open Source & IEEE"]
-        D["GSSoC Global Rank #80 (Top 1%, 142 Merged PRs)<br/>IEEE ICIRCA Publication (Tamil Speech Emotion XAI)"]
-    end
+<br/>
 
-    Y2023 --> Y2024 --> Y2025 --> Y2026
-
-    classDef t2023 fill:#0b0f19,stroke:#00F5FF,stroke-width:2px,color:#fff;
-    classDef t2024 fill:#1e1b4b,stroke:#A855F7,stroke-width:2px,color:#fff;
-    classDef t2025 fill:#064e3b,stroke:#10B981,stroke-width:2px,color:#fff;
-    classDef t2026 fill:#451a03,stroke:#F59E0B,stroke-width:2px,color:#fff;
-
-    class A t2023;
-    class B t2024;
-    class C t2025;
-    class D t2026;
-```
-
-<br/><hr style="border: 0; height: 2px; background: linear-gradient(to right, rgba(0, 245, 255, 0), rgba(0, 245, 255, 0.9), rgba(168, 85, 247, 0.9), rgba(0, 245, 255, 0));" /><br/>
-
-## 📊 GitHub Activity & Snake Telemetry
+## 📊 GitHub Analytics & Telemetry
 
 <div align="center">
   <a href="https://github.com/GOKULRAM-K">
@@ -369,7 +348,7 @@ graph TD
 
 <!-- CONTRIBUTION SNAKE ANIMATION -->
 <div align="center">
-  <p style="color: #00F5FF; font-weight: bold; font-family: monospace;">🐍 CONTRIBUTION GRID SNAKE 🐍</p>
+  <p style="color: #00F5FF; font-weight: bold; font-family: monospace; font-size: 14px;">🐍 CONTRIBUTION GRID SNAKE 🐍</p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GOKULRAM-K/GOKULRAM-K/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GOKULRAM-K/GOKULRAM-K/output/github-contribution-grid-snake.svg" />
