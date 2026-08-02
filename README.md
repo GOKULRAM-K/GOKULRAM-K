@@ -10,16 +10,14 @@
 
 <br/><br/>
 
-<!-- VIBRANT STATUS & METRICS BADGE MATRIX -->
+<!-- VIBRANT STATUS & METRICS BADGES -->
 <p align="center">
-  <span style="background: linear-gradient(135deg, #00F5FF, #0072FF); color: #000; font-weight: 800; padding: 6px 14px; border-radius: 20px; font-size: 13px;">🟢 STATUS: Available for AI/ML Research & Engineering</span>
-  &nbsp;&nbsp;
-  <span style="background: linear-gradient(135deg, #F59E0B, #D97706); color: #000; font-weight: 800; padding: 6px 14px; border-radius: 20px; font-size: 13px;">⚡ GSSoC '26 Rank #80 (Top 1%)</span>
-  &nbsp;&nbsp;
-  <span style="background: linear-gradient(135deg, #10B981, #059669); color: #fff; font-weight: 800; padding: 6px 14px; border-radius: 20px; font-size: 13px;">📜 Elsevier IF 9.4 Publication</span>
+  <img src="https://img.shields.io/badge/STATUS-Available_for_AI%2FML_Collaborations-00F5FF?style=for-the-badge&logo=sparkles&logoColor=black" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GSSoC_'26-Global_Rank_%2380_(Top_1%25)-F59E0B?style=for-the-badge&logo=gitbook&logoColor=black" alt="GSSoC Rank" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Elsevier_Paper-Impact_Factor_9.4-10B981?style=for-the-badge&logo=sciencedirect&logoColor=white" alt="Elsevier Paper" />
 </p>
-
-<br/>
 
 <!-- SOCIAL & ACADEMIC MATRIX -->
 <p align="center">
@@ -48,30 +46,77 @@
 
 <br/>
 
-<!-- CYBER TERMINAL -->
+<!-- COLOURFUL MAC TERMINAL -->
 <div align="center">
-<table width="92%" style="background-color: #0b0f19; border: 2px solid #00F5FF; border-radius: 14px; border-collapse: separate; border-spacing: 0; box-shadow: 0 0 25px rgba(0, 245, 255, 0.25);">
+<table width="92%" style="background-color: #080c14; border: 2px solid #00F5FF; border-radius: 12px; border-collapse: separate; border-spacing: 0; box-shadow: 0 10px 30px rgba(0, 245, 255, 0.25);">
   <tr>
-    <td style="background: linear-gradient(90deg, #0f172a, #1e1b4b); padding: 12px 18px; border-top-left-radius: 12px; border-top-right-radius: 12px; border-bottom: 1px solid #1e293b;">
-      <span style="color: #ef4444; font-size: 14px;">●</span> <span style="color: #eab308; font-size: 14px;">●</span> <span style="color: #22c55e; font-size: 14px;">●</span> &nbsp;&nbsp;
-      <span style="color: #00F5FF; font-family: monospace; font-size: 14px; font-weight: bold;">gokulram@ai-engine:~ (system_core.py)</span>
+    <td style="background-color: #161b22; padding: 12px 16px; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom: 1px solid #30363d;">
+      <svg width="14" height="14" viewBox="0 0 14 14" style="vertical-align: middle;"><circle cx="7" cy="7" r="6" fill="#FF5F56"/></svg>&nbsp;
+      <svg width="14" height="14" viewBox="0 0 14 14" style="vertical-align: middle;"><circle cx="7" cy="7" r="6" fill="#FFBD2E"/></svg>&nbsp;
+      <svg width="14" height="14" viewBox="0 0 14 14" style="vertical-align: middle;"><circle cx="7" cy="7" r="6" fill="#27C93F"/></svg>&nbsp;&nbsp;&nbsp;
+      <span style="color: #00F5FF; font-family: monospace; font-weight: bold; font-size: 14px;">gokulram@ai-engine:~ (system_core.py)</span>
     </td>
   </tr>
   <tr>
-    <td style="padding: 20px; font-family: 'Fira Code', monospace; font-size: 13.5px; color: #e2e8f0; line-height: 1.6;">
-      <span style="color: #00F5FF; font-weight: bold;">class</span> <span style="color: #A855F7; font-weight: bold;">AIEngineer</span>:<br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;def <span style="color: #10B981; font-weight: bold;">__init__</span>(self):<br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.name = <span style="color: #FDE047;">"Gokul Ram K"</span><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.role = <span style="color: #FDE047;">"AI Engineer & Explainable AI Researcher"</span><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.core_stack = [<span style="color: #FDE047;">"PyTorch"</span>, <span style="color: #FDE047;">"Vision Transformers"</span>, <span style="color: #FDE047;">"RAG Infrastructure"</span>, <span style="color: #FDE047;">"XAI (LIME/SHAP)"</span>]<br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.impact = {<span style="color: #FDE047;">"publications"</span>: 6, <span style="color: #FDE047;">"citations"</span>: 30, <span style="color: #FDE047;">"max_journal_if"</span>: 9.4, <span style="color: #FDE047;">"patents"</span>: 2}<br/>
+    <td style="padding: 20px; font-family: 'Fira Code', monospace; font-size: 14px; line-height: 1.7; background-color: #0d1117;">
+      <span style="color: #FF79C6; font-weight: bold;">class</span> <span style="color: #BD93F9; font-weight: bold;">AIEngineer</span>:<br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FF79C6; font-weight: bold;">def</span> <span style="color: #50FA7B; font-weight: bold;">__init__</span>(<span style="color: #FFB86C;">self</span>):<br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FFB86C;">self</span>.name = <span style="color: #F1FA8C;">"Gokul Ram K"</span><br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FFB86C;">self</span>.role = <span style="color: #F1FA8C;">"AI Engineer &amp; Explainable AI Researcher"</span><br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FFB86C;">self</span>.stack = [<span style="color: #F1FA8C;">"PyTorch"</span>, <span style="color: #F1FA8C;">"Vision Transformers"</span>, <span style="color: #F1FA8C;">"RAG Infra"</span>, <span style="color: #F1FA8C;">"XAI (LIME/SHAP)"</span>]<br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FFB86C;">self</span>.impact = {<span style="color: #8BE9FD;">"citations"</span>: <span style="color: #BD93F9;">30</span>, <span style="color: #8BE9FD;">"journal_if"</span>: <span style="color: #BD93F9;">9.4</span>, <span style="color: #8BE9FD;">"patents"</span>: <span style="color: #BD93F9;">2</span>}<br/>
       <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;def <span style="color: #10B981; font-weight: bold;">deploy_system</span>(self, model_spec):<br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #00F5FF; font-weight: bold;">return</span> <span style="color: #FDE047;">f"Deploying {model_spec} with deterministic transparency & ultra-low latency."</span>
+      &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FF79C6; font-weight: bold;">def</span> <span style="color: #50FA7B; font-weight: bold;">deploy_system</span>(<span style="color: #FFB86C;">self</span>, <span style="color: #FFB86C;">model_spec</span>):<br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FF79C6; font-weight: bold;">return</span> <span style="color: #F1FA8C;">f"Deploying {model_spec} with explainability &amp; ultra-low latency!"</span>
     </td>
   </tr>
 </table>
 </div>
+
+<br/><hr style="border: 0; height: 2px; background: linear-gradient(to right, rgba(0, 245, 255, 0), rgba(0, 245, 255, 0.9), rgba(168, 85, 247, 0.9), rgba(0, 245, 255, 0));" /><br/>
+
+## 🧬 System Architecture Pipeline
+
+> High-level architecture illustrating how I bridge raw multimodal data to production-grade interpretable AI systems.
+
+```mermaid
+graph LR
+    subgraph INGESTION["1. Multimodal Data Ingestion"]
+        A["Genomic & Protein Data"]
+        B["Acoustic Speech Signals"]
+        C["Video Frame Datasets"]
+    end
+
+    subgraph DEEP_LEARNING["2. Neural Architecture Layer"]
+        D["NLP / BioTransformers"]
+        E["Acoustic Feature Fusion"]
+        F["Vision Transformers (ViT)"]
+    end
+
+    subgraph INTERPRETABILITY["3. Explainable AI (XAI)"]
+        G["LIME / SHAP Attribution Maps"]
+        H["PharmGKB & CPIC Rules"]
+    end
+
+    subgraph PRODUCTION["4. Edge & Cloud Infrastructure"]
+        I["RAG & LLM Services"]
+        J["Real-Time Edge API"]
+    end
+
+    INGESTION --> DEEP_LEARNING
+    DEEP_LEARNING --> INTERPRETABILITY
+    INTERPRETABILITY --> PRODUCTION
+
+    classDef default fill:#0b0f19,stroke:#00F5FF,stroke-width:2px,color:#fff;
+    classDef modelStyle fill:#1e1b4b,stroke:#A855F7,stroke-width:2px,color:#fff;
+    classDef xaiStyle fill:#064e3b,stroke:#10B981,stroke-width:2px,color:#fff;
+    classDef deployStyle fill:#451a03,stroke:#F59E0B,stroke-width:2px,color:#fff;
+
+    class A,B,C default;
+    class D,E,F modelStyle;
+    class G,H xaiStyle;
+    class I,J deployStyle;
+```
 
 <br/><hr style="border: 0; height: 2px; background: linear-gradient(to right, rgba(0, 245, 255, 0), rgba(0, 245, 255, 0.9), rgba(168, 85, 247, 0.9), rgba(0, 245, 255, 0));" /><br/>
 
@@ -272,26 +317,39 @@
 ## ⏳ Engineering Milestones
 
 ```mermaid
-timeline
-    title AI Engineering & Research Journey
-    2023 : Core Fundamentals
-         : AWS Cloud Practitioner Certification
-         : Deep Learning & Python Architecture Specialization
-    2024 : High-Impact Research & First Patent
-         : Published Elsevier Paper (IF 9.4, 23+ Citations)
-         : Issued Patent #1 (Emotions Reading Self-Care System)
-    2025 : Industry Engineering & Second Patent
-         : AI/ML Project Intern @ MEDxAI Innovations
-         : Issued Patent #2 (Smart Irrigation Controller)
-         : SIH National Finalist & Top 30 Team @ VIT Chennai
-    2026 : Global Open Source Recognition
-         : GSSoC 2026 Global Rank #80 (Top 1%, 142 Merged PRs)
-         : IEEE ICIRCA Publication (Tamil Speech Emotion Recognition XAI)
+graph TD
+    subgraph Y2023 ["⚡ 2023: Core Engineering"]
+        A["AWS Cloud Practitioner Certified<br/>Deep Learning & System Specialization"]
+    end
+
+    subgraph Y2024 ["📜 2024: High-Impact Research & Patent 1"]
+        B["Elsevier Paper (IF 9.4, 23+ Citations)<br/>Issued Patent #1 (Affective Computing System)"]
+    end
+
+    subgraph Y2025 ["💼 2025: AI Internships & Patent 2"]
+        C["AI/ML Project Intern @ MEDxAI Innovations<br/>Issued Patent #2 (Smart Irrigation) • SIH Finalist"]
+    end
+
+    subgraph Y2026 ["🏆 2026: Global Open Source & IEEE"]
+        D["GSSoC Global Rank #80 (Top 1%, 142 Merged PRs)<br/>IEEE ICIRCA Publication (Tamil Speech Emotion XAI)"]
+    end
+
+    Y2023 --> Y2024 --> Y2025 --> Y2026
+
+    classDef t2023 fill:#0b0f19,stroke:#00F5FF,stroke-width:2px,color:#fff;
+    classDef t2024 fill:#1e1b4b,stroke:#A855F7,stroke-width:2px,color:#fff;
+    classDef t2025 fill:#064e3b,stroke:#10B981,stroke-width:2px,color:#fff;
+    classDef t2026 fill:#451a03,stroke:#F59E0B,stroke-width:2px,color:#fff;
+
+    class A t2023;
+    class B t2024;
+    class C t2025;
+    class D t2026;
 ```
 
 <br/><hr style="border: 0; height: 2px; background: linear-gradient(to right, rgba(0, 245, 255, 0), rgba(0, 245, 255, 0.9), rgba(168, 85, 247, 0.9), rgba(0, 245, 255, 0));" /><br/>
 
-## 📊 GitHub Telemetry & Activity Graph
+## 📊 GitHub Activity & Snake Telemetry
 
 <div align="center">
   <a href="https://github.com/GOKULRAM-K">
@@ -311,8 +369,12 @@ timeline
 
 <!-- CONTRIBUTION SNAKE ANIMATION -->
 <div align="center">
-  <p style="color: #00F5FF; font-weight: bold; font-family: monospace;">🐍 CONTRIBUTION GRID SNAKE ANIMATION 🐍</p>
-  <img src="https://raw.githubusercontent.com/GOKULRAM-K/GOKULRAM-K/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <p style="color: #00F5FF; font-weight: bold; font-family: monospace;">🐍 CONTRIBUTION GRID SNAKE 🐍</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GOKULRAM-K/GOKULRAM-K/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GOKULRAM-K/GOKULRAM-K/output/github-contribution-grid-snake.svg" />
+    <img alt="Gokul Ram K GitHub Contribution Snake" src="https://raw.githubusercontent.com/GOKULRAM-K/GOKULRAM-K/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 <br/>
