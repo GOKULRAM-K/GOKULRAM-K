@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/GOKULRAM-K">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Engineering+production-grade+AI+models+and+explainable+systems.;Deep+Learning+%7C+Explainable+AI+(XAI)+%7C+Pharmacogenomics;GSSoC+'26+Global+Rank+%2380+(Top+1%25+%7C+142+Merged+PRs);6+Research+Publications+(Elsevier+IF+7.9)+%7C+2+Issued+Patents;Building+transparent%2C+scalable%2C+and+human-centric+technology." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Engineering+production-grade+AI+models+and+explainable+systems.;Deep+Learning+%7C+Explainable+AI+(XAI)+%7C+Pharmacogenomics;GSSoC+'26+Global+Rank+%2380+(Top+1%25+%7C+142+Merged+PRs);6+Research+Publications+(Elsevier+IF+9.4)+%7C+2+Issued+Patents;Building+transparent%2C+scalable%2C+and+human-centric+technology." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -83,7 +83,7 @@
       <img src="public/profile.jpg" width="240" style="border-radius: 20px; border: 2px solid #38bdf8; box-shadow: 0 0 20px rgba(56, 189, 248, 0.3);" alt="Gokul Ram K Profile Photo" />
       <br/><br/>
       <table>
-        <tr><td align="center">🎓 <strong>30+ Global Citations</strong> (Elsevier IF 7.9)</td></tr>
+        <tr><td align="center">🎓 <strong>30+ Global Citations</strong> (Elsevier IF 9.4)</td></tr>
         <tr><td align="center">⭐ <strong>Rank #80 Global</strong> in GSSoC 2026</td></tr>
         <tr><td align="center">📄 <strong>6 Research Publications</strong></td></tr>
         <tr><td align="center">💡 <strong>2 Issued Patents</strong></td></tr>
@@ -113,7 +113,7 @@ timeline
     2023 : 12th Math Topper (99%)
          : Python Institute PCEP & PCAP Certified
     2024 : AWS Cloud Practitioner Certification
-         : First High-Impact Publication (Elsevier IF 7.9, 23 Citations)
+         : First High-Impact Publication (Elsevier IF 9.4, 23 Citations)
          : Issued 1st Patent (Emotions Reading Self-Care)
     2025 : AI/ML Project Intern @ MEDxAI Innovations
          : Python Dev Intern @ KRG Technologies Inc.
@@ -145,7 +145,7 @@ timeline
   <tr>
     <td><strong>Ensemble deep learning model for protein secondary structure prediction using NLP metrics and explainable AI</strong></td>
     <td>Elsevier – <em>Results in Engineering</em> (Vol 24, 103435)</td>
-    <td><b style="color:#10b981;">Impact Factor 7.9</b><br/>🔥 <b>23 Citations</b></td>
+    <td><b style="color:#10b981;">Impact Factor 9.4</b><br/>🔥 <b>23 Citations</b></td>
     <td>NLP Metrics + LIME XAI Architecture<br/><em>U Vignesh, R Parvathi, <b>KG Ram</b></em><br/><a href="https://www.sciencedirect.com/science/article/pii/S2590123024016876">🔗 ScienceDirect</a></td>
   </tr>
   <tr>
