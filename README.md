@@ -1,44 +1,31 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,13,22,6,182,212,99,102,241,16,185,129&height=250&section=header&text=GOKUL%20RAM%20K&fontSize=52&fontColor=ffffff&animation=twinkling&desc=AI%20Engineer%20%7C%20Explainable%20AI%20Researcher%20%7C%20GSSoC%20%2726%20Global%20Rank%20%2380&descSize=16&descAlign=50&descAlignTop=72" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:0f172a,100:1e1b4b&height=220&section=header&text=Gokul%20Ram%20Kannan&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=AI%20%26%20Machine%20Learning%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Cloud%20Pipelines&descSize=16&descAlign=50&descAlignTop=72&descColor=38bdf8" width="100%" alt="Gokul Ram Kannan Header" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/GOKULRAM-K">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=Building+Production-Grade+Interpretable+AI+Systems.;Deep+Learning+%7C+Explainable+AI+(XAI)+%7C+Pharmacogenomics;GSSoC+'26+Global+Rank+%2380+(Top+1%25+%7C+142+Merged+PRs);6+Research+Publications+(Elsevier+IF+9.4)+%7C+2+Issued+Patents;Engineering+Autonomous%2C+Edge-Intelligent+%26+Human-Centric+AI." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+scalable+AI+systems%2C+APIs+%26+cloud+pipelines.;PyTorch+%7C+FastAPI+%7C+Apache+Kafka+%7C+Docker+%7C+AWS;GSSoC+'26+Global+Rank+%2380+(Top+1%25+%7C+179+Merged+PRs);Real-Time+Edge+Intelligence+%26+Autonomous+Systems." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- STATUS CARD -->
-<table align="center">
-  <tr>
-    <td align="center" style="background-color: #0d1117; border: 1px solid #1f2937; padding: 12px 24px; border-radius: 12px;">
-      <span style="color: #10b981; font-weight: bold;">🟢 CURRENT STATUS</span> &nbsp;|&nbsp; 
-      <span style="color: #f8fafc;">Available for AI/ML Research Collaborations & System Engineering Roles</span> &nbsp;|&nbsp; 
-      <span style="color: #f59e0b; font-weight: bold;">GSSoC '26 Global Rank #80</span>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- SOCIAL & ACADEMIC MATRIX -->
+<!-- QUICK BADGES MATRIX -->
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=ww8jdO8AAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google_Scholar-30%2B_Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
-  </a>
-  &nbsp;
-  <a href="https://orcid.org/0009-0008-7632-1675">
-    <img src="https://img.shields.io/badge/ORCID-0009--0008--7632--1675-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
-  </a>
-  &nbsp;
-  <a href="https://gssoc.girlscript.org/profile/65491830-23d4-43a0-9793-d84139c36df9">
-    <img src="https://img.shields.io/badge/GSSoC_'26-Global_Rank_%2380-F59E0B?style=for-the-badge&logo=gitbook&logoColor=white" alt="GSSoC Rank 80" />
+  <a href="https://gokul-ram-kannan.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-gokul--ram--kannan.vercel.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/gokul-ram-k-277a6a308">
     <img src="https://img.shields.io/badge/LinkedIn-Gokul_Ram_K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://scholar.google.com/citations?user=zw6MtC0AAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-37%2B_Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
+  </a>
+  &nbsp;
+  <a href="https://orcid.org/0009-0008-7632-1675">
+    <img src="https://img.shields.io/badge/ORCID-0009--0008--7632--1675-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
   &nbsp;
   <a href="mailto:gokulram.k2023@vitstudent.ac.in">
@@ -46,245 +33,136 @@
   </a>
 </p>
 
+<!-- STATUS PILL -->
+<table align="center">
+  <tr>
+    <td align="center" style="background-color: #0b0f19; border: 1px solid #1e293b; padding: 10px 22px; border-radius: 10px;">
+      <span style="color: #10b981; font-weight: bold;">🟢 CURRENT STATUS</span> &nbsp;|&nbsp;
+      <span style="color: #f1f5f9; font-weight: 500;">Open for AI/ML & Software Engineering Roles</span> &nbsp;|&nbsp;
+      <span style="color: #38bdf8; font-weight: bold;">GSSoC '26 Global Rank #80 (Top 1%)</span>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br/>
 
-<!-- SECTION DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+## ⚡ Engineering Overview
+
+I am an **AI/ML & Systems Engineer** with hands-on experience building production-grade deep learning models, asynchronous backend services, and distributed streaming telemetry:
+
+- **AI/ML Systems Engineering**: Designing production deep learning architectures, Vision Transformers (ViT), Graph Neural Networks (GNNs), and offline local RAG agents with quantized LLMs.
+- **Distributed & Cloud Architecture**: Engineering high-throughput REST APIs with FastAPI, real-time message streaming with Apache Kafka, Dockerized microservice pipelines, and AWS cloud services.
+- **Open-Source Leadership**: Ranked **#80 globally** (Top 1% of 43,587+ developers) in GirlScript Summer of Code 2026, delivering **179 merged pull requests** across full-stack and machine learning codebases.
+- **Applied Hardware & Edge AI**: Finalist in the **Smart India Hackathon (SIH 2025)** for an edge-intelligent dynamic smart grid framework processing 604k+ telemetry points with sub-50ms latency.
 
 <br/>
 
-## 👤 Executive Profile
+## 🛠️ Technical Competencies
+
+| Domain | Technologies & Tooling |
+| :--- | :--- |
+| **Languages** | Python, C++, Java, TypeScript, JavaScript, SQL, C |
+| **AI / ML & Deep Learning** | PyTorch, TensorFlow, Hugging Face, OpenCV, Scikit-Learn, ONNX, Librosa, XGBoost |
+| **GenAI & Search** | Local LLMs (Ollama, vLLM), LangChain, LlamaIndex, FAISS, ChromaDB, RAG Pipelines |
+| **Backend & APIs** | FastAPI, Flask, Node.js, Next.js, REST APIs, Asynchronous I/O, WebSockets |
+| **Distributed & Cloud** | AWS (Solutions Architect & Cloud Practitioner Certified), Docker, Apache Kafka, Redis, PostgreSQL, MySQL |
+| **DevOps & Tooling** | Git, GitHub Actions, Linux / Bash, Postman, CI/CD, Jupyter |
+
+<br/>
+
+## 🚀 Featured Engineering Systems
 
 <table>
   <tr>
-    <td width="60%" valign="top">
-      <h3>I turn machine learning research into production-grade systems.</h3>
-      <p>
-        I am an <strong>AI Engineer & Computer Science Researcher</strong> at <strong>VIT Chennai</strong>. My focus spans <strong>Deep Learning Architectures</strong>, <strong>Explainable AI (XAI)</strong>, <strong>Biomedical AI / Pharmacogenomics</strong>, and <strong>Swarm Intelligence</strong>.
-      </p>
-      <p>
-        Rather than stopping at theoretical accuracy, I build end-to-end, interpretable decision pipelines that combine deterministic domain knowledge (PharmGKB, CPIC guidelines) with machine learning predictions.
-      </p>
-      <br/>
-      <h4>🎯 Core Philosophy</h4>
-      <p><em>"Building with purpose — scaling with vision. Technology means nothing unless it serves people."</em></p>
-      <br/>
-      <h4>🔬 Current Research Focus</h4>
+    <td width="50%" valign="top">
+      <h3>🚗 <a href="https://github.com/GOKULRAM-K/DriveGraph">DriveGraph</a></h3>
+      <p><strong>Autonomous Driving Simulator & XAI Cockpit</strong></p>
       <ul>
-        <li><strong>Explainable AI (XAI)</strong>: LIME, SHAP, and feature fusion for transparent medical diagnostics and speech emotion recognition.</li>
-        <li><strong>Pharmacogenomics AI</strong>: Hybrid decision-support systems for gene–variant–drug response prediction and personalized dosing.</li>
-        <li><strong>Swarm Robotics & Edge AI</strong>: Swarm intelligence algorithms for real-time disaster response and payload optimization.</li>
+        <li>Integrated high-fidelity CARLA autonomous driving simulation with spatial-temporal Graph Neural Networks (GNNs) for predictive collision risk assessment.</li>
+        <li>Engineered real-time telemetry extraction processing vehicle kinematics, multi-agent trajectory prediction, and attention-based explainability maps.</li>
       </ul>
+      <p><code>Python</code> <code>PyTorch</code> <code>CARLA Simulator</code> <code>GNN</code> <code>OpenCV</code> <code>Telemetry</code></p>
     </td>
-    <td width="40%" align="center" valign="top">
-      <br/>
-      <img src="public/profile.jpg" width="240" style="border-radius: 20px; border: 2px solid #38bdf8; box-shadow: 0 0 20px rgba(56, 189, 248, 0.3);" alt="Gokul Ram K Profile Photo" />
-      <br/><br/>
-      <table>
-        <tr><td align="center">🎓 <strong>30+ Global Citations</strong> (Elsevier IF 9.4)</td></tr>
-        <tr><td align="center">⭐ <strong>Rank #80 Global</strong> in GSSoC 2026</td></tr>
-        <tr><td align="center">📄 <strong>6 Research Publications</strong></td></tr>
-        <tr><td align="center">💡 <strong>2 Issued Patents</strong></td></tr>
-        <tr><td align="center">💼 <strong>3 AI/ML Internships</strong></td></tr>
-      </table>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/GOKULRAM-K/SmartPhase---Edge-Intelligent-Framework-for-Safe-and-Efficient-Power-Grid">EdgeGrid-AI</a></h3>
+      <p><strong>Smart Grid Dynamic Phase Balancing (SIH 2025 Finalist)</strong></p>
+      <ul>
+        <li>Architected an edge-intelligent power balancing framework processing 604k+ telemetry points with sub-50ms relay switching latency.</li>
+        <li>Implemented multi-threaded telemetry streaming with Apache Kafka and Raspberry Pi edge nodes, reducing phase unbalance by 37%.</li>
+      </ul>
+      <p><code>Python</code> <code>Apache Kafka</code> <code>Docker</code> <code>Raspberry Pi</code> <code>Edge AI</code> <code>React</code></p>
     </td>
   </tr>
-</table>
-
-<br/>
-
-<!-- SECTION DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<br/>
-
-## ⏳ Interactive Engineering Timeline
-
-```mermaid
-timeline
-    title Career & Research Evolution
-    2018 : First X/O Game in Hard-coded Python
-         : Fundamentals of Logic & Algorithms
-    2021 : 10th Milestone - 97.2% (School Rank #4)
-    2022 : AI & Blockchain Exploration
-         : Conducted Web3/Blockchain Workshop for 90+ Peers
-    2023 : 12th Math Topper (99%)
-         : Python Institute PCEP & PCAP Certified
-    2024 : AWS Cloud Practitioner Certification
-         : First High-Impact Publication (Elsevier IF 9.4, 23 Citations)
-         : Issued 1st Patent (Emotions Reading Self-Care)
-    2025 : AI/ML Project Intern @ MEDxAI Innovations
-         : Python Dev Intern @ KRG Technologies Inc.
-         : Summer Research Intern @ VIT Chennai
-         : Issued 2nd Patent (AI Smart Irrigation)
-    2026 : GSSoC 2026 Rank #80 Globally (Top 1%, 142 Merged PRs)
-         : Published Speech Emotion Recognition XAI Framework (IEEE ICIRCA)
-    Future : Scaling Ethical, Explainable & Autonomous AI Systems
-```
-
-<br/>
-
-<!-- SECTION DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<br/>
-
-## 🔬 Research Lab & Intellectual Property
-
-### 📑 Peer-Reviewed Publications
-
-<table width="100%">
   <tr>
-    <td width="50%" valign="top" style="background-color: #0b0f19; padding: 18px; border-radius: 12px; border: 1px solid #00F5FF;">
-      <div style="display: flex; justify-content: space-between; align-items: center;">
-        <h4 style="margin: 0; color: #00F5FF; font-size: 16px;">🌾 Smart Irrigation Controller System</h4>
-        <span style="background: linear-gradient(135deg, #10B981, #059669); color: #fff; padding: 4px 10px; border-radius: 6px; font-size: 11px; font-weight: 900;">✔ ISSUED</span>
-      </div>
-      <p style="font-size: 12px; color: #94a3b8; margin-top: 8px;"><strong>App No:</strong> <code>202541038729</code> | <strong>Grant Date:</strong> May 16, 2025</p>
-      <p style="font-size: 13px; color: #cbd5e1; line-height: 1.5;">AI-based telemetry system integrating soil sensor grids, weather forecasting models, and dynamic cloud actuation for micro-drip optimization.</p>
+    <td width="50%" valign="top">
+      <h3>⚖️ <a href="https://github.com/GOKULRAM-K/SamvidhaanAI_A_Legal_Companion">LexBNS (SamvidhaanAI)</a></h3>
+      <p><strong>Offline Local RAG Agent for Indian Penal Code / BNS</strong></p>
+      <ul>
+        <li>Designed a fully offline, zero-data-leakage legal retrieval pipeline running quantized Llama 3.1 via Ollama.</li>
+        <li>Built FAISS vector indexing with hierarchical document chunking, achieving sub-800ms retrieval latency across statutory penal codes.</li>
+      </ul>
+      <p><code>Python</code> <code>Ollama</code> <code>FAISS</code> <code>LangChain</code> <code>FastAPI</code> <code>Docker</code></p>
     </td>
-    <td width="50%" valign="top" style="background-color: #0b0f19; padding: 18px; border-radius: 12px; border: 1px solid #EC4899;">
-      <div style="display: flex; justify-content: space-between; align-items: center;">
-        <h4 style="margin: 0; color: #EC4899; font-size: 16px;">💖 Emotions Reading System for Self-Care</h4>
-        <span style="background: linear-gradient(135deg, #10B981, #059669); color: #fff; padding: 4px 10px; border-radius: 6px; font-size: 11px; font-weight: 900;">✔ ISSUED</span>
-      </div>
-      <p style="font-size: 12px; color: #94a3b8; margin-top: 8px;"><strong>App No:</strong> <code>202441052499</code> | <strong>Grant Date:</strong> Jul 9, 2024</p>
-      <p style="font-size: 13px; color: #cbd5e1; line-height: 1.5;">Affective computing architecture mapping real-time facial micro-expressions and biometrics to actionable cognitive feedback loops.</p>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/GOKULRAM-K/DeepShield">DeepShield</a></h3>
+      <p><strong>Vision Transformer (ViT) Deepfake Video Detection</strong></p>
+      <ul>
+        <li>Implemented a frame-level video forensics engine powered by Vision Transformers (ViT), achieving 87.77% validation accuracy.</li>
+        <li>Built an asynchronous Flask inference pipeline with automated face extraction, landmark alignment, and spatial attention heatmaps.</li>
+      </ul>
+      <p><code>PyTorch</code> <code>Vision Transformer</code> <code>OpenCV</code> <code>Flask</code> <code>Inference Pipeline</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎙️ <a href="https://github.com/GOKULRAM-K">HEDER-Net</a></h3>
+      <p><strong>Speech Emotion Disentanglement with Adversarial Transfer</strong></p>
+      <ul>
+        <li>Final Year Project: Disentangled speech representations using emotion2vec+ and Gradient Reversal Layers (GRL) for domain-invariant SER.</li>
+        <li>Evaluated across multi-corpus benchmarks (RAVDESS, EMO-DB, SAVEE) with Leave-One-Dataset-Out (LODO) transfer validation.</li>
+      </ul>
+      <p><code>Python</code> <code>PyTorch</code> <code>emotion2vec+</code> <code>Adversarial GRL</code> <code>Audio DSP</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 <a href="https://github.com/GOKULRAM-K">Lunar Lander DQN</a></h3>
+      <p><strong>Deep Q-Network Reinforcement Learning Agent</strong></p>
+      <ul>
+        <li>Engineered a Deep Q-Network (DQN) agent solving the continuous-state Gymnasium LunarLander-v3 environment.</li>
+        <li>Implemented prioritized experience replay, decaying epsilon-greedy exploration, and target network stabilization reaching +240 score benchmark.</li>
+      </ul>
+      <p><code>Python</code> <code>PyTorch</code> <code>Gymnasium</code> <code>DQN</code> <code>Reinforcement Learning</code></p>
     </td>
   </tr>
 </table>
 
 <br/>
 
-### 📑 Selected Research Publications
-
-<table width="100%">
-  <thead>
-    <tr style="background: linear-gradient(90deg, #0f172a, #1e1b4b); color: #f8fafc;">
-      <th width="32%" style="padding: 10px;">Publication & Link</th>
-      <th width="28%">Venue / Journal</th>
-      <th width="20%">Metrics</th>
-      <th width="20%">Domain</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 10px;"><strong>Ensemble Deep Learning Model for Protein Structure Prediction</strong><br/><a href="https://www.sciencedirect.com/science/article/pii/S2590123024016876" style="color:#00F5FF;">🔗 ScienceDirect</a></td>
-      <td>Elsevier – <em>Results in Engineering</em></td>
-      <td><span style="color:#10B981; font-weight:bold;">Impact Factor 9.4</span><br/>🔥 <b>23 Citations</b></td>
-      <td>NLP Metrics + LIME XAI</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;"><strong>Tamil Speech Emotion Recognition via Feature Fusion & XAI</strong></td>
-      <td>IEEE – <em>2026 ICIRCA</em></td>
-      <td><span style="color:#00F5FF; font-weight:bold;">Published (2026)</span></td>
-      <td>Acoustic Signal Processing</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;"><strong>Enhancing Sentiment Analysis via Augmentation & XAI</strong><br/><a href="https://ieeexplore.ieee.org/abstract/document/10866623" style="color:#00F5FF;">🔗 IEEE Xplore</a></td>
-      <td>IEEE – <em>2024 ICUIS</em></td>
-      <td>🔥 <b>7 Citations</b></td>
-      <td>NLP + LIME Interpretability</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;"><strong>Edge & Network Processing for Disaster Response Robot Swarms</strong><br/><a href="https://www.igi-global.com/chapter/optimizing-resource-management-with-edge-and-network-processing-for-disaster-response-using-insect-robot-swarms/359271" style="color:#00F5FF;">🔗 IGI Global</a></td>
-      <td>IGI Global – <em>Micro World of Robotics</em></td>
-      <td>Published (2025)</td>
-      <td>Swarm AI & Edge Computing</td>
-    </tr>
-  </tbody>
-</table>
-
-<br/><hr style="border: 0; height: 2px; background: linear-gradient(to right, rgba(0, 245, 255, 0), rgba(0, 245, 255, 0.9), rgba(168, 85, 247, 0.9), rgba(0, 245, 255, 0));" /><br/>
-
-## 🛠️ Tech Stack & Engineering Arsenal
+## 🌐 Open-Source Engineering (GSSoC 2026)
 
 <div align="center">
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Deep Learning & XAI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **GenAI & RAG Infrastructure** | ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
-| **Languages & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Cloud & Distributed** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
-
-</div>
-
-<br/><hr style="border: 0; height: 2px; background: linear-gradient(to right, rgba(0, 245, 255, 0), rgba(0, 245, 255, 0.9), rgba(168, 85, 247, 0.9), rgba(0, 245, 255, 0));" /><br/>
-
-## 🚀 Featured Systems & Flagship Repositories
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" style="background-color: #0b0f19; padding: 16px; border-radius: 10px; border: 1px solid #1e293b;">
-      <h3 style="margin-top:0;">🛡️ <a href="https://github.com/GOKULRAM-K/DeepShield" style="color: #00F5FF;">DeepShield</a></h3>
-      <p style="color:#a855f7; font-weight:bold; margin-top:-6px;">Vision Transformer (ViT) Deepfake Detection</p>
-      <ul>
-        <li>Achieved <strong>87.77% validation accuracy</strong> on frame-level video datasets.</li>
-        <li>Real-time Flask detection pipeline with automated face extraction and attention heatmaps.</li>
-      </ul>
-      <p><code>Python</code> <code>PyTorch</code> <code>Vision Transformer</code> <code>Flask</code> <code>OpenCV</code></p>
-    </td>
-    <td width="50%" valign="top" style="background-color: #0b0f19; padding: 16px; border-radius: 10px; border: 1px solid #1e293b;">
-      <h3 style="margin-top:0;">⚖️ <a href="https://github.com/GOKULRAM-K/SamvidhaanAI_A_Legal_Companion" style="color: #00F5FF;">SamvidhaanAI</a></h3>
-      <p style="color:#a855f7; font-weight:bold; margin-top:-6px;">Legal RAG Assistant for Indian Constitution</p>
-      <ul>
-        <li>Retrieval-Augmented Generation (RAG) assistant leveraging LangChain & ChromaDB embeddings.</li>
-        <li>Streamlit web interface powered by Google Gemini LLM API.</li>
-      </ul>
-      <p><code>Python</code> <code>Gemini LLM</code> <code>RAG</code> <code>LangChain</code> <code>ChromaDB</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="background-color: #0b0f19; padding: 16px; border-radius: 10px; border: 1px solid #1e293b;">
-      <h3 style="margin-top:0;">⚡ <a href="https://github.com/GOKULRAM-K/SmartPhase---Edge-Intelligent-Framework-for-Safe-and-Efficient-Power-Grid" style="color: #00F5FF;">EdgeGrid-AI</a></h3>
-      <p style="color:#a855f7; font-weight:bold; margin-top:-6px;">Smart Phase Balancing Framework (SIH Finalist)</p>
-      <ul>
-        <li>Self-healing hybrid IoT architecture connecting transformer nodes to central AI controllers.</li>
-        <li>Real-time load balancing using LoRa, Kafka streaming telemetry, and Dockerized microservices.</li>
-      </ul>
-      <p><code>Python</code> <code>Raspberry Pi</code> <code>Kafka</code> <code>LoRa</code> <code>Docker</code> <code>React</code></p>
-    </td>
-    <td width="50%" valign="top" style="background-color: #0b0f19; padding: 16px; border-radius: 10px; border: 1px solid #1e293b;">
-      <h3 style="margin-top:0;">🧬 <a href="https://github.com/GOKULRAM-K/ProteinFold-XAI" style="color: #00F5FF;">ProteinFold-XAI</a></h3>
-      <p style="color:#a855f7; font-weight:bold; margin-top:-6px;">Protein Secondary Structure Prediction & XAI</p>
-      <ul>
-        <li>Ensemble deep learning architecture utilizing NLP sequence metrics and LIME feature attributions.</li>
-        <li>Backbone code behind Elsevier <em>Results in Engineering</em> publication (IF 9.4).</li>
-      </ul>
-      <p><code>Python</code> <code>PyTorch</code> <code>LIME</code> <code>BioPython</code> <code>Scikit-Learn</code></p>
-    </td>
-  </tr>
-</table>
-
-<br/><hr style="border: 0; height: 2px; background: linear-gradient(to right, rgba(0, 245, 255, 0), rgba(0, 245, 255, 0.9), rgba(168, 85, 247, 0.9), rgba(0, 245, 255, 0));" /><br/>
-
-## 🌐 Open Source Leadership (GSSoC '26)
-
-<div align="center">
-  <table style="background-color: #0b0f19; border: 2px solid #F59E0B; border-radius: 14px; padding: 16px; text-align: center; box-shadow: 0 0 20px rgba(245, 158, 11, 0.2);" width="95%">
+  <table width="100%">
     <tr>
-      <td width="25%">
-        <span style="color:#F59E0B; font-size:12px; font-weight:bold; letter-spacing:1px;">GLOBAL RANK</span><br/>
-        <span style="color:#ffffff; font-size:40px; font-weight:900;">#80</span><br/>
-        <span style="color:#94a3b8; font-size:11px;">Top 1% of 43,587+ Participants</span>
+      <td width="25%" align="center">
+        <span style="color:#38bdf8; font-size:12px; font-weight:bold; letter-spacing:1px;">GLOBAL RANK</span><br/>
+        <span style="font-size:36px; font-weight:900; color:#ffffff;">#80</span><br/>
+        <span style="color:#94a3b8; font-size:11px;">Top 1% of 43,587+ Developers</span>
       </td>
-      <td width="25%">
-        <span style="color:#00F5FF; font-size:12px; font-weight:bold; letter-spacing:1px;">LEADERBOARD SCORE</span><br/>
-        <span style="color:#ffffff; font-size:34px; font-weight:800;">28,813</span><br/>
-        <span style="color:#94a3b8; font-size:11px;">A-Tier Leaderboard</span>
+      <td width="25%" align="center">
+        <span style="color:#10b981; font-size:12px; font-weight:bold; letter-spacing:1px;">MERGED PULL REQUESTS</span><br/>
+        <span style="font-size:36px; font-weight:900; color:#ffffff;">179</span><br/>
+        <span style="color:#94a3b8; font-size:11px;">Production Code Contributions</span>
       </td>
-      <td width="25%">
-        <span style="color:#10B981; font-size:12px; font-weight:bold; letter-spacing:1px;">MERGED PRs</span><br/>
-        <span style="color:#ffffff; font-size:34px; font-weight:800;">142</span><br/>
-        <span style="color:#94a3b8; font-size:11px;">11,241 PR Points</span>
+      <td width="25%" align="center">
+        <span style="color:#f59e0b; font-size:12px; font-weight:bold; letter-spacing:1px;">LEADERBOARD SCORE</span><br/>
+        <span style="font-size:36px; font-weight:900; color:#ffffff;">28,813</span><br/>
+        <span style="color:#94a3b8; font-size:11px;">Ranked in Top Tier</span>
       </td>
-      <td width="25%">
-        <span style="color:#A855F7; font-size:12px; font-weight:bold; letter-spacing:1px;">INSTITUTION RANK</span><br/>
-        <span style="color:#ffffff; font-size:34px; font-weight:800;">#4</span><br/>
-        <span style="color:#94a3b8; font-size:11px;">VIT Chennai Board</span>
+      <td width="25%" align="center">
+        <span style="color:#6366f1; font-size:12px; font-weight:bold; letter-spacing:1px;">INSTITUTION RANK</span><br/>
+        <span style="font-size:36px; font-weight:900; color:#ffffff;">#2</span><br/>
+        <span style="color:#94a3b8; font-size:11px;">Vellore Institute of Technology</span>
       </td>
     </tr>
   </table>
@@ -292,47 +170,28 @@ timeline
 
 <br/>
 
-> **Core Repositories Impacted**: [pathfinder-ai](https://github.com/harshdwivediiiii/pathfinder-ai) (91 Merged PRs) | [bizinsight-ai](https://github.com/Prateekiiitg56/BizInsight-AI) (Cache eviction, DB migrations) | [logara-ai](https://github.com/Dharanish-AM/Logara-AI) (Telemetry metrics, epoch normalization)
-
-<br/><hr style="border: 0; height: 2px; background: linear-gradient(to right, rgba(0, 245, 255, 0), rgba(0, 245, 255, 0.9), rgba(168, 85, 247, 0.9), rgba(0, 245, 255, 0));" /><br/>
-
-## 🛠️ Engineering Stack & Technical Arsenal
-
-<table align="center" width="100%">
-  <tr>
-    <td width="20%" align="center"><strong>AI & Machine Learning</strong></td>
-    <td>PyTorch • TensorFlow • Keras • Scikit-Learn • Hugging Face • OpenCV • Librosa • SMOTE • LIME / SHAP</td>
-  </tr>
-  <tr>
-    <td width="20%" align="center"><strong>GenAI & LLMs</strong></td>
-    <td>Gemini API • LangChain • ChromaDB • RAG Pipelines • Vector Embeddings • Prompt Engineering</td>
-  </tr>
-  <tr>
-    <td width="20%" align="center"><strong>Languages</strong></td>
-    <td>Python • C++ • Java • C • SQL (MySQL, SQLite) • JavaScript • HTML5 / CSS3</td>
-  </tr>
-  <tr>
-    <td width="20%" align="center"><strong>Backend & Systems</strong></td>
-    <td>Flask • Node.js • Next.js • REST APIs • SQLite • MySQL • Tesseract OCR</td>
-  </tr>
-  <tr>
-    <td width="20%" align="center"><strong>Cloud & Infrastructure</strong></td>
-    <td>AWS (Cloud Practitioner Certified) • Docker • Git • GitHub • Linux Shell • Jupyter</td>
-  </tr>
-</table>
+- **Key Repositories Contributed**:
+  - **[pathfinder-ai](https://github.com/harshdwivediiiii/pathfinder-ai)** (91 Merged PRs): Implemented high-throughput resume parsing pipelines, asynchronous multi-format text extraction (PDF/DOCX/OCR), and FAISS semantic matching.
+  - **[bizinsight-ai](https://github.com/Prateekiiitg56/BizInsight-AI)**: Optimized PostgreSQL schemas, implemented Redis caching layers, and decoupled backend analytics endpoints.
+  - **[logara-ai](https://github.com/Dharanish-AM/Logara-AI)**: Refactored training telemetry pipelines, epoch-level metric normalization, and automated CI tests.
 
 <br/>
 
-<!-- SECTION DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+## 💡 Systems Patents & Innovations
+
+- **🌾 AI-Driven Smart Irrigation Controller & Telemetry System** (App No: `202541038729` &bull; *Patent Issued, 2025*)  
+  *Automated sensor-grid telemetry, soil moisture predictive models, and cloud-actuated micro-drip optimization.*
+- **💖 Affective Telemetry & Real-Time Biometric Feedback Loop** (App No: `202441052499` &bull; *Patent Issued, 2024*)  
+  *Real-time facial micro-expression telemetry and physiological biofeedback architecture.*
+- **📄 Peer-Reviewed Engineering Literature**: 7 publications with **37+ citations** across Elsevier (*Results in Engineering*, IF 9.4) and IEEE exploring explainable AI, audio DSP, and distributed swarm systems.
 
 <br/>
 
-## 📊 GitHub Analytics & Telemetry
+## 📊 Telemetry & Contribution Activity
 
 <div align="center">
   <a href="https://github.com/GOKULRAM-K">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GOKULRAM-K&theme=react-dark&bg_color=0D1117&color=00F5FF&line=00F5FF&point=10B981&area=true&hide_border=true" width="95%" alt="Gokul Ram K Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GOKULRAM-K&theme=react-dark&bg_color=0D1117&color=38BDF8&line=38BDF8&point=10B981&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph" />
   </a>
 </div>
 
@@ -340,39 +199,35 @@ timeline
 
 <div align="center">
   <a href="https://github.com/GOKULRAM-K">
-    <img src="https://streak-stats.demolab.com/?user=GOKULRAM-K&theme=radical&hide_border=true&background=0D1117&ring=00F5FF&fire=F59E0B&currStreakLabel=00F5FF" width="95%" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=GOKULRAM-K&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="95%" alt="GitHub Streak Stats" />
   </a>
 </div>
 
 <br/>
 
-<!-- CONTRIBUTION SNAKE ANIMATION -->
 <div align="center">
-  <p style="color: #00F5FF; font-weight: bold; font-family: monospace; font-size: 14px;">🐍 CONTRIBUTION GRID SNAKE 🐍</p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GOKULRAM-K/GOKULRAM-K/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GOKULRAM-K/GOKULRAM-K/output/github-contribution-grid-snake.svg" />
-    <img alt="Gokul Ram K GitHub Contribution Snake" src="https://raw.githubusercontent.com/GOKULRAM-K/GOKULRAM-K/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/GOKULRAM-K/GOKULRAM-K/output/github-contribution-grid-snake-dark.svg" width="95%" />
   </picture>
 </div>
 
 <br/>
 
-<!-- FOOTER -->
 <div align="center">
 
 ---
 
 <p>
-  <a href="https://scholar.google.com/citations?user=ww8jdO8AAAAJ&hl=en"><strong>Google Scholar</strong></a> &nbsp;|&nbsp; 
-  <a href="https://orcid.org/0009-0008-7632-1675"><strong>ORCID iD</strong></a> &nbsp;|&nbsp; 
-  <a href="https://www.linkedin.com/in/gokul-ram-k-277a6a308"><strong>LinkedIn</strong></a> &nbsp;|&nbsp; 
-  <a href="https://gssoc.girlscript.org/profile/65491830-23d4-43a0-9793-d84139c36df9"><strong>GSSoC Profile</strong></a> &nbsp;|&nbsp; 
+  <a href="https://gokul-ram-kannan.vercel.app/"><strong>Portfolio</strong></a> &nbsp;&bull;&nbsp;
+  <a href="https://www.linkedin.com/in/gokul-ram-k-277a6a308"><strong>LinkedIn</strong></a> &nbsp;&bull;&nbsp;
+  <a href="https://scholar.google.com/citations?user=zw6MtC0AAAAJ&hl=en"><strong>Google Scholar</strong></a> &nbsp;&bull;&nbsp;
+  <a href="https://orcid.org/0009-0008-7632-1675"><strong>ORCID</strong></a> &nbsp;&bull;&nbsp;
+  <a href="https://gssoc.girlscript.org/profile/65491830-23d4-43a0-9793-d84139c36df9"><strong>GSSoC Profile</strong></a> &nbsp;&bull;&nbsp;
   <a href="mailto:gokulram.k2023@vitstudent.ac.in"><strong>Email</strong></a>
 </p>
 
-<p><em>© 2026 Gokul Ram K. Engineered with Precision, Interpretability & Purpose.</em></p>
-
-<img src="https://komarev.com/ghpvc/?username=GOKULRAM-K&color=00f5ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+<p><em>Engineered with precision, scalable architecture, and production reliability.</em></p>
 
 </div>
