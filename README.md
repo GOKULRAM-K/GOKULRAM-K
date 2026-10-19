@@ -1,7 +1,14 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:0f172a,100:1e1b4b&height=220&section=header&text=Gokul%20Ram%20Kannan&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20%26%20Machine%20Learning%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Data%20Pipelines&descSize=15&descAlign=50&descAlignTop=72&descColor=38bdf8" width="100%" alt="Gokul Ram Kannan Header" />
+
+<!-- BRIGHT ELECTRIC AURORA HERO -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:EC4899&height=220&section=header&text=Gokul%20Ram%20Kannan&fontSize=42&fontColor=ffffff&desc=Software%20and%20Machine%20Learning%20Engineer&descSize=15&descAlign=50&descAlignY=72"
+  width="100%"
+  alt="Gokul Ram Kannan — Software and Machine Learning Engineer"
+/>
+
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/GOKULRAM-K">
@@ -51,9 +58,9 @@
 
 Software & Machine Learning Engineer with proven experience designing, deploying, and optimizing end-to-end intelligent systems. Blends deep learning research with robust systems programming—scaling asynchronous backends, distributed streaming telemetry, and edge-to-cloud deployments.
 
-- **Scale & Engineering Leadership**: **Global Rank #80** (Top 1% of 43,587+ developers) in GSSoC 2026 with **179 merged pull requests** across full-stack and ML production codebases.
-- **Mission-Critical Systems**: **SIH 2025 Finalist** for architecting an edge-intelligent dynamic power grid framework handling 604k+ streaming telemetry points with sub-50ms latency.
-- **R&D and IP**: **2 Issued Patents** in sensor-grid telemetry and biofeedback loops, alongside **7 peer-reviewed publications** (37+ citations) across Elsevier (*Results in Engineering*, IF 9.4) and IEEE.
+- **Scale & Engineering Leadership**: **Global Rank #80** (Top 1% Globally of 43,587+ developers) in GSSoC 2026 with **179 merged pull requests** across full-stack and ML production codebases.
+- **Mission-Critical Systems**: **SIH 2025 Semi-Finalist** for architecting an edge-intelligent dynamic power grid framework handling 604k+ streaming telemetry points with sub-50ms latency.
+- **R&D and IP**: **5 Issued Patents** in sensor-grid telemetry and biofeedback loops, alongside **7 peer-reviewed publications** (37+ citations) across Elsevier (*Results in Engineering*, IF 9.4 and *Array*, I.F. 5.3) and IEEE conferences.
 
 <br/>
 
